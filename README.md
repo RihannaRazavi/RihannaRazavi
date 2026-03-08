@@ -1,6 +1,6 @@
 # Rihanna Razavi
 
-### PhD Candidate | Quantitative Psychology & Human Development | University of Notre Dame
+### PhD Candidate | Quantitative Methods & Human Development | University of Notre Dame
 
 ---
 
