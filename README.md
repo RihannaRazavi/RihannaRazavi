@@ -38,13 +38,17 @@ I work at the intersection of **computational social science**, **behavioral mea
 
 ---
 
-## Selected Projects
 
+## Selected Projects
 | Project | Description | Tools |
 |---|---|---|
 | [Facial Emotion Recognition](https://github.com/RihannaRazavi/Facial-Emotion-Recognition) | Deep learning pipeline for classifying facial expressions | Python · PyTorch · CNN |
 | [AlexNet vs Vision Transformer](https://github.com/RihannaRazavi/AlexNet-vs-VisionTransformer) | Comparative analysis of CNN and transformer architectures | Python · PyTorch |
 | [Generative Agents Simulation](https://github.com/RihannaRazavi/generative-agents-sim) | LLM-based agents simulating children's responses to interparental conflict | Python · LangChain |
+| [Twitter Discourse Clustering](https://github.com/RihannaRazavi/Tweeter-Data) | Unsupervised topic discovery and sentiment analysis on ~303K marriage-related tweets, comparing pre-trained embeddings (BERT, RoBERTa, Twitter-RoBERTa, DeBERTa-v3) fine-tuned with SimCSE contrastive learning against off-the-shelf CRC embedding models | Python · PyTorch · HuggingFace Transformers · SimCSE · UMAP/t-SNE |
+## Selected Projects
+
+
 
 ---
 
